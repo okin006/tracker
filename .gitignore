@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+*~
+*.swp
+pip-*.gz
+vtenv*
+eggs
+.project
+.pydevproject
+log/*
+tracker/local_settings.py
+/static/
+docs/_build/*
+sql/*
+__pycache__
+*.sqlite3
